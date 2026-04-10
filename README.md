@@ -1,6 +1,6 @@
 # BlackFoxSpotify
 
-BlackFox Spotify — это легковесный, кастомный desktop-клиент для Spotify Web Player без рекламы, написанный на C# (WinForms) с использованием движка Microsoft Edge WebView2.
+[BlackFox Spotify](https://blackfox-hub.online/) — это легковесный, кастомный desktop-клиент для Spotify Web Player без рекламы, написанный на C# (WinForms) с использованием движка Microsoft Edge WebView2.
 
 # ✨ Ключевые возможности (Features)
 ```
